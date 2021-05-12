@@ -12,7 +12,7 @@
     "axios": "^0.19.2",
     "core-js": "^3.6.4",
     "lyric-parser": "^1.0.1",
-    "swiper": "^5.3.7",
+    "swiper": "^6.5.1",
     "video.js": "^7.7.5",
     "vue": "^2.6.11",
     "vue-awesome-swiper": "^4.1.1",
